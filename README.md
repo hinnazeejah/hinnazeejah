@@ -10,7 +10,7 @@ I’m currently looking for a **full-time opportunity** where I can contribute t
 ---
 
 ## 🎯 Featured Project: ML-Based Web Attack Classification for TANNER  
-🔗 [[View Project]([https://github.com/hinnazeejah/tanner/tree/main/ml_dataset](https://summerofcode.withgoogle.com/archive/2024/projects/IvW8jOTc))]
+🔗 [[View Project]([[https://github.com/hinnazeejah/tanner/tree/main/ml_dataset](https://summerofcode.withgoogle.com/archive/2024/projects/IvW8jOTc](https://github.com/hinnazeejah/tanner/tree/main/ml_dataset)))]
 
 **What I Did:**  
 Built a machine learning-powered system that replaced traditional regex-based detection methods, significantly improving both accuracy and efficiency. I engineered a comprehensive dataset, performed extensive preprocessing, and trained multi-label classification models—achieving a **94% accuracy** rate using a **Random Forest** classifier.
