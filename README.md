@@ -1,47 +1,66 @@
-👋 Hi, I'm Hinna!
-🎓 Senior at St. John's University, studying Cybersecurity Systems
-🔭 Aspiring Security Engineer and Machine Learning and Car Enthusiast
+# 👋 Hi, I'm Hinna!
 
-I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. I recenlty wrapped up an internhip at Rivian as a Cybersecurity Analyst and I am also building machine learning models and learning more about cybersecurity. I’m looking to leverage and grow my skills in a full-time role where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
+🎓 Senior at **St. John's University**, majoring in **Cybersecurity Systems**  
+🔭 Aspiring **Security Engineer**, **Machine Learning Developer**, and **Car Enthusiast**
 
+I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. I recently wrapped up an internship at **Rivian** as a **Cybersecurity Analyst**, where I worked on third-party risk assessments and supplier monitoring. Outside of that, I’m actively building machine learning models and deepening my understanding of cybersecurity tools and threat intelligence platforms.
 
-🎯 Featured Project: ML-based web attack classification project for TANNER (*[link your project README](https://github.com/hinnazeejah/tanner/tree/main/ml_dataset))
-What I Did: Built a machine learning-powered system that replaced traditional regex-based detection methods, significantly improving both accuracy and efficiency. I engineered a comprehensive dataset, performed extensive preprocessing, and trained multi-label classification models—achieving a 94% accuracy rate using a Random Forest classifier.
-Tools: Python, scikit-learn, Pandas, NumPy, TF-IDF, Random Forest
-Result: Achieved 94% model accuracy, replacing manual rule-based detection with an automated, intelligent classification system ready for production use.
-Curious? See the full project here (*[link your project README](https://github.com/hinnazeejah/tanner/tree/main/ml_dataset)).
+I’m currently looking for a **full-time opportunity** where I can contribute to innovative security projects and continue learning from industry professionals — got any leads? Let’s connect!
 
- 
+---
 
-🛠 Tech Stack:
-Languages: Python, Java
-Data Science: Pandas, NumPy, scikit-learn, TensorFlow
-Web Dev: HTML, CSS, JavaScript (basic), Node.js
-Tools: Jupyter Notebooks, Google Colab, Git, GitHub
-Databases: SQL, MySQL
- 
+## 🎯 Featured Project: ML-Based Web Attack Classification for TANNER  
+🔗 [[View Project]([https://github.com/hinnazeejah/tanner/tree/main/ml_dataset](https://summerofcode.withgoogle.com/archive/2024/projects/IvW8jOTc))](#)
 
-🚀 Projects:
-A few other noteworthy projects I’ve worked on:
+**What I Did:**  
+Built a machine learning-powered system that replaced traditional regex-based detection methods, significantly improving both accuracy and efficiency. I engineered a comprehensive dataset, performed extensive preprocessing, and trained multi-label classification models—achieving a **94% accuracy** rate using a **Random Forest** classifier.
 
-STJ ACM Website - Website for ACM Members at St. John's University (*[link your project README](https://github.com/SJUACM/Website-V2))
-blah blahblah
-Tech Stack: Next.js 15, TypeScript, Tailwind CSS, Framer Motion, React (18+), Contentful CMS, Vercel (Hosting & Analytics)
-Learnings: blah blah blah
+**Tools:** `Python`, `scikit-learn`, `Pandas`, `NumPy`, `TF-IDF`, `Random Forest`  
+**Result:** Replaced manual rule-based detection with an automated, intelligent classification system ready for production use.
 
-CompTIA Prep Discord Bot - A discord bot that helps you study for CompTIA exams (*[link your project README](https://github.com/hinnazeejah/CompTIAPrepBot))
-This helos you study
-Tech Stack: Python
-Learnings: blah blah blah
- 
+**Curious?** 📂 [[Check out the full project here](https://github.com/hinnazeejah/tanner/tree/main/ml_dataset)](#)
 
-📫 How to Reach Me:
-Email: hinnazeejahhh@gmail.com
-LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hinna-zeejah/) (*l[ink your profile URL](https://www.linkedin.com/in/hinna-zeejah/))
- 
+---
 
-📊 GitHub Stats: Coming soon!
- 
+## 🛠 Tech Stack
 
-✨ Fun Fact:
-I love to travel
+- **Languages:** Python, Java  
+- **Data Science & ML:** Pandas, NumPy, scikit-learn, TensorFlow  
+- **Web Development:** HTML, CSS, JavaScript (basic), Node.js  
+- **Tools:** Jupyter Notebooks, Google Colab, Git, GitHub  
+- **Databases:** SQL, MySQL  
+
+---
+
+## 🚀 Projects
+
+### STJ ACM Website – Website for ACM Members at St. John's University  
+🔗 [[View Project README](https://github.com/SJUACM/Website-V2)](#)  
+**What I Did:**  
+Designed and developed a sleek, responsive site for the ACM chapter to share updates, events, and technical blog posts. I integrated a Contentful CMS backend so non-technical members could easily manage blog content without editing code.  
+**Tech Stack:** `Next.js 15`, `TypeScript`, `Tailwind CSS`, `Framer Motion`, `React 18+`, `Contentful CMS`, `Vercel`  
+**Learnings:**  
+Learned how to connect a headless CMS to a modern React stack and improved my frontend development and deployment skills.
+
+---
+
+### CompTIA Prep Discord Bot – A Discord bot that helps users prepare for CompTIA exams  
+🔗 [[View Project README](https://github.com/hinnazeejah/CompTIAPrepBot)](#)  
+**What I Did:**  
+Built a command-based bot that quizzes users on CompTIA Security+, Network+, and A+ exam topics, providing explanations and tracking progress.  
+**Tech Stack:** `Python`, `Discord API`  
+**Learnings:**  
+Strengthened my understanding of CompTIA topics, API integrations, and user interaction flows within Discord environments.
+
+---
+
+## 📫 How to Reach Me
+
+- **Email:** hinnazeejahhh@gmail.com  
+- **LinkedIn:** [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/hinna-zeejah/)](#) *(Update with your actual LinkedIn URL)*
+
+---
+
+## ✨ Fun Fact
+
+I’ve visited over **15 countries** and love finding inspiration in different cultures, conversations, and experiences 🌍✈️
