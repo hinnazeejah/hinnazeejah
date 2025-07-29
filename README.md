@@ -56,7 +56,8 @@ Strengthened my understanding of CompTIA topics, API integrations, and user inte
 ## 📫 How to Reach Me
 
 - **Email:** hinnazeejahhh@gmail.com  
-- **LinkedIn:** [[linkedin.com/in/hinna-zeejah](https://www.linkedin.com/in/hinna-zeejah/)](#) *(Update with your actual LinkedIn URL)*
+- **LinkedIn:** [[linkedin.com/in/hinna-zeejah](https://www.linkedin.com/in/hinna-zeejah/)]
+- **Website/Portfolio:** [[https://www.hinnazeejah.com/]
 
 ---
 
