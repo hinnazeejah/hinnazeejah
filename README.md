@@ -54,7 +54,7 @@ Strengthened my understanding of CompTIA topics, API integrations, and user inte
 ---
 
 ### PrepPals – AI-Powered Interview Prep Discord Bot  
-🔗 [View Project README](https://github.com/hinnazeejah/PrepPals)  
+🔗 [[View Project README](https://github.com/hinnazeejah/PrepPals)]
 **What I Did:**  
 Collaborated with a team of four to build an intelligent Discord bot that helps students prepare for interviews through real-time, personalized guidance. The bot uses open-source LLMs and web scraping to extract key information from resumes and webpages, then delivers customized prep plans and advice.
 
