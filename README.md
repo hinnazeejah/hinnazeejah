@@ -17,7 +17,7 @@ Built a machine learning-powered system that replaced traditional regex-based de
 **Tools:** `Python`, `scikit-learn`, `Pandas`, `NumPy`, `TF-IDF`, `Random Forest`  
 **Result:** Replaced manual rule-based detection with an automated, intelligent classification system ready for production use.
 
-**Curious?** 📂 [[Check out the full project here](https://github.com/hinnazeejah/tanner/tree/main/ml_dataset)](#)
+**Curious?** 📂 [[Check out the full project here](https://github.com/hinnazeejah/tanner/tree/main/ml_dataset)]
 
 ---
 
