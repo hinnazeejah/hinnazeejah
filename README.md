@@ -9,7 +9,7 @@ I’m currently looking for a **full-time opportunity** where I can contribute t
 
 ---
 
-## 🎯 Featured Project: ML-Based Web Attack Classification for TANNER  
+## 🎯 Featured Project 1: ML-Based Web Attack Classification for TANNER  
 
 **What I Did:**  
 Built a machine learning-powered system that replaced traditional regex-based detection methods, significantly improving both accuracy and efficiency. I engineered a comprehensive dataset, performed extensive preprocessing, and trained multi-label classification models—achieving a **94% accuracy** rate using a **Random Forest** classifier.
@@ -18,6 +18,16 @@ Built a machine learning-powered system that replaced traditional regex-based de
 **Result:** Replaced manual rule-based detection with an automated, intelligent classification system ready for production use.
 
 **Curious?** 📂 [[Check out the full project here](https://github.com/hinnazeejah/tanner/tree/main/ml_dataset)]
+
+## ## 🎯 Featured Project 2: Pneumonia Detection System  
+
+**What I Did**  
+Developed a medical imaging AI system using EfficientNet to analyze chest X-ray images for pneumonia detection with 94%+ accuracy. I trained the model on open datasets, optimized it for Apple Silicon (MPS), and built a CustomTkinter GUI for user-friendly, real-time diagnosis.  
+
+**Tools:** Python, PyTorch, PIL, CustomTkinter  
+**Result:** Delivered sub-second inference speed and a pink-themed diagnostic interface designed for research, education, and preliminary screening.  
+
+📂 [View Project Repo](https://github.com/hinnazeejah/ai-pneumonia-detection)  
 
 ---
 
