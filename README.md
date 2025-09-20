@@ -19,7 +19,7 @@ Built a machine learning-powered system that replaced traditional regex-based de
 
 **Curious?** 📂 [[Check out the full project here](https://github.com/hinnazeejah/tanner/tree/main/ml_dataset)]
 
-## ## 🎯 Featured Project 2: Pneumonia Detection System  
+## 🎯 Featured Project 2: Pneumonia Detection System  
 
 **What I Did**  
 Developed a medical imaging AI system using EfficientNet to analyze chest X-ray images for pneumonia detection with 94%+ accuracy. I trained the model on open datasets, optimized it for Apple Silicon (MPS), and built a CustomTkinter GUI for user-friendly, real-time diagnosis.  
@@ -27,7 +27,7 @@ Developed a medical imaging AI system using EfficientNet to analyze chest X-ray 
 **Tools:** Python, PyTorch, PIL, CustomTkinter  
 **Result:** Delivered sub-second inference speed and a pink-themed diagnostic interface designed for research, education, and preliminary screening.  
 
-📂 [View Project Repo](https://github.com/hinnazeejah/ai-pneumonia-detection)  
+**Curious?** 📂 [[Check out the full project here](https://github.com/hinnazeejah/ai-pneumonia-detection)]
 
 ---
 
