@@ -1,7 +1,6 @@
 # Hi, I'm Hinna!
 
 I'm a recent graduate of **St. John's University** with a degree in **Cybersecurity Systems**!
-Aspiring **Security Engineer**, **Machine Learning Engineer**, and **Car Enthusiast**
 
 I love working on problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. I recently wrapped up an internship at **Rivian** as a **Cybersecurity Analyst**, where I worked on third-party risk assessments and supplier monitoring. I am now an intern for the **FBI**! Outside of work, I’m actively building machine learning models and deepening my understanding of cybersecurity tools and threat intelligence platforms.
 
@@ -28,7 +27,7 @@ Built a machine learning-powered system that replaced traditional regex-based de
 **Tools:** `Python`, `scikit-learn`, `Pandas`, `NumPy`, `TF-IDF`, `Random Forest`  
 **Result:** Replaced manual rule-based detection with an automated, intelligent classification system ready for production use.
 
-**Curious?** [[Check out the full project here](https://github.com/hinnazeejah/tanner/tree/main/ml_dataset)]
+**Curious?** [Check out the full project here](https://github.com/hinnazeejah/tanner/tree/main/ml_dataset)
 
 ## Featured Project 3: Pneumonia Detection System  
 
@@ -38,7 +37,7 @@ Developed a medical imaging AI system using EfficientNet to analyze chest X-ray 
 **Tools:** Python, PyTorch, PIL, CustomTkinter  
 **Result:** Delivered sub-second inference speed and a pink-themed diagnostic interface designed for research, education, and preliminary screening.  
 
-**Curious?** [[Check out the full project here](https://github.com/hinnazeejah/ai-pneumonia-detection)]
+**Curious?** [Check out the full project here](https://github.com/hinnazeejah/ai-pneumonia-detection)
 
 ---
 
