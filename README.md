@@ -4,7 +4,6 @@ I'm a recent graduate of **St. John's University** with a degree in **Cybersecur
 
 I love working on problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. I recently wrapped up an internship at **Rivian** as a **Cybersecurity Analyst**, where I worked on third-party risk assessments and supplier monitoring. I am now an intern for the **FBI**! Outside of work, I’m actively building machine learning models and deepening my understanding of cybersecurity tools and threat intelligence platforms.
 
-I’m currently looking for a **full-time opportunity** where I can contribute to innovative projects and continue learning from industry professionals — got any leads? Let’s connect!
 
 ---
 
